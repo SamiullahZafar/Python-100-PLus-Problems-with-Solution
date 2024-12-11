@@ -1,0 +1,12 @@
+[
+    {
+        "name": "eclair",
+        "price": 2.2,
+        "quantity": 9000
+    },
+    {
+        "name": "dairy milk",
+        "price": 350.7,
+        "quantity": 900
+    }
+]
